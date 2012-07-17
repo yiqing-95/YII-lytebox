@@ -8,6 +8,8 @@ Usage Example:
 ===========
 
 more example you can find in its plugin site  (http://lytebox.com/index.php)
+
+<code>
 <?php
 
 
@@ -26,3 +28,4 @@ $this->widget(
    data-lyte-options="group:vacation" data-title="My Sister">My Sister</a>
    </div>
 
+</code>
