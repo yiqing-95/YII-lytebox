@@ -9,7 +9,11 @@ Usage Example:
 
 more example you can find in its plugin site  (http://lytebox.com/index.php)
 
-><?php
+>
+
+~~~
+[php]
+<?php
 
 
 >$this->widget(
@@ -28,3 +32,5 @@ more example you can find in its plugin site  (http://lytebox.com/index.php)
 >  </div>
 
 > 
+~~~
+
