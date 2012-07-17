@@ -10,7 +10,7 @@ Usage Example:
 more example you can find in its plugin site  (http://lytebox.com/index.php)
 
   <prev>
-><?php
+>`<?php
 
 
 >$this->widget(
@@ -26,6 +26,6 @@ more example you can find in its plugin site  (http://lytebox.com/index.php)
  >  data-lyte-options="group:vacation" data-title="Mom and Dad">Mom and Dad</a>
 ><a href="http://image.xinmin.cn/2011/07/08/20110708091910710322.jpg" class="lytebox"
  >  data-lyte-options="group:vacation" data-title="My Sister">My Sister</a>
->   </div>
+>  ` </div>
 
 > </prev>
